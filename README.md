@@ -19,11 +19,9 @@ Developed as part of the **Route Mobile Diploma** curriculum.
 
 ## 📸 Screenshots & UI Flow
 
-| Splash Screen | Exploration View | 3D + About | Planet Details Specs |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/splash_screen.png" width="200"/> | <img src="screenshots/explore_screen.png" width="200"/> | <img src="screenshots/3d_planet_+_about_screen.png" width="200"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="200"/> |
-
----
+|     Onboarding Screen     |Planet Explorer View | 3D + About | Planet Details Specs |
+|:-------------------------:| :---: | :---: | :---: |
+| <img src="screenshots/onboarding.png" width="200"/> | <img src="screenshots/explore_screen.png" width="200"/> | <img src="screenshots/3d_planet_+_about_screen.png" width="200"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="200"/> |
 
 ## 🎨 Design System & Specifications
 
