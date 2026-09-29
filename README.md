@@ -13,15 +13,15 @@ Developed as part of the **Route Mobile Diploma** curriculum.
 </p>
 
 > **Mentor Feedback (Yousef Gamal - Route Academy):**  
-> *"Incredible work. This submission stands out with high quality execution and strong professionalism. Keep this standard. You are proving that disciplined work and attention to detail produce outstanding outcomes."*
+> *"Incredible work. This submission stands out with high quality execution and strong professionalism. Keep this standard. You are proving that disciplined work and attention to detail produce outstanding outcomes."*[cite: 1]
 
 ---
 
 ## 📸 Screenshots & UI Flow
 
 | Splash Screen | Exploration View | 3D + About | Planet Details Specs |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="screenshots/splash_screen.png" width="160"/> | <img src="screenshots/explore_screen.png" width="160"/> |  <img src="screenshots/3d_planet_+_about_screen.png" width="160"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="160"/> |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/splash_screen.png" width="200"/> | <img src="screenshots/explore_screen.png" width="200"/> | <img src="screenshots/3d_planet_+_about_screen.png" width="200"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="200"/> |
 
 ---
 
