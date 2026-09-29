@@ -21,7 +21,7 @@ Developed as part of the **Route Mobile Diploma** curriculum.
 
 | Splash Screen | Exploration View | 3D Model | 3D + About | Planet Details Specs |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="screenshots/splash_screen.png" width="160"/> | <img src="screenshots/explore_screen.png" width="160"/> | <img src="screenshots/3d _planet_screen.png" width="160"/> | <img src="screenshots/3d_planet_+_about_screen.png" width="160"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="160"/> |
+| <img src="screenshots/splash_screen.png" width="160"/> | <img src="screenshots/explore_screen.png" width="160"/> | <img src="screenshots/3d_planet_screen.png" width="160"/> | <img src="screenshots/3d_planet_+_about_screen.png" width="160"/> | <img src="screenshots/3d_planet_+planet_details_screen.png" width="160"/> |
 
 ---
 
